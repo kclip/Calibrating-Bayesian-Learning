@@ -5,7 +5,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/torrvision/focal_calibration/blob/main/LICENSE)
 
 This repository contains the code for [*Calibrating Bayesian Learning via Regularization, Confidence Minimization, and
-Selective Inference*](https://arxiv.org/abs/2002.09437), some elements still in progress.
+Selective Inference*](https://arxiv.org/pdf/2404.11350), some elements still in progress.
 
 If the code or the paper has been useful in your research, please add a citation to our work:
 
